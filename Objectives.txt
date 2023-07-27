@@ -1,0 +1,18 @@
+Data driven framework
+
+
+Framework is a methodology for automating test cases.
+
+Expectations/Rules/Objectives which we need to acheive.
+
+1. Maven Project.
+2. Implement Multiple test cases and batch run.
+3. Generate Reports - Html + screenshot of failure/error - Extent Reports
+4. Email reports to Team members.
+5. Manage Data -  XLS/JSON to read the data and manage test cases.
+6. Run only specific test cases.
+7. Re-usability
+8. Compatible with changing client's requirements.
+9. Should be compatible with selenium GRID.
+10. Consider Dependencies between tests.
+11. Jenkins + GIT
